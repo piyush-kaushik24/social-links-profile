@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://piyush-kaushik24.github.io/social-links-profile/)
-- Live Site URL: [Social links profile](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/piyush-kaushik24/social-links-profile)
+- Live Site URL: [Social links profile](https://piyush-kaushik24.github.io/social-links-profile/)
 
 ## My process
 
