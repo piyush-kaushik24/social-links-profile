@@ -42,8 +42,6 @@ Users should be able to:
 
 ### What I learned
 
-### What I learned
-
 - `:hover` to change the styling of interactive elements.
 - Creating reusable and meaningful CSS class names.
 - Flexbox and `gap` to create and control vertical layouts.
